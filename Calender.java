@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Cal{
+class Calender{
     public static void main(String[]args){
      Scanner scan = new Scanner(System.in);
        System.out.print("Enter the year");
