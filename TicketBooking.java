@@ -28,9 +28,9 @@ class Ticket{
     	System.out.println("Age : "+age);
     	System.out.println("From : "+from);
     	System.out.println("To : "+to);
-    	System.out.println("Total Numer of Seats Booked : "+howmany);
+    	System.out.println("Total Number of Seats Booked : "+howmany);
     	System.out.println("Travel Date : "+date+"/"+month+"/"+year);
-        System.out.println("Booking Status : SuccesFull !!!");
+        System.out.println("Booking Status : SuccessFull !!!");
     }
 
     public String getName() {
